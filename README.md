@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Shehro Alam!
+# 👋 Hi, I'm Muhammad Shehroz Alam!
 
 I'm a passionate and self-driven **Python programmer** and future **Data Scientist**, currently building projects and sharpening my skills for job opportunities in the UK 🇬🇧.
 
